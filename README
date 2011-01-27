@@ -1,0 +1,5 @@
+A very simple brainfuck interpreter.
+The binary takes exactly one argument, which is the location of the brainfuck program (e.g. examples/cat.bf).
+All IO is done via stdin and stdout.
+
+This interpreter is technically able to use an infinite number of memory cells, but you probably shouldn't try it out ;)
